@@ -18,7 +18,7 @@
 ---
 
 ## About Me
-Greetings! I am John Aluma, a dedicated statistician, data analyst, and Python enthusiast. My passion lies in uncovering insights hidden within data and transforming them into actionable intelligence. Join me on a journey through the vast landscapes of data as we explore, analyze, and derive insights that drive informed decision-making.
+Welcome! I'm John Aluma, a skilled statistician, data analyst, and Python enthusiast known for creating compelling online and offline surveys and providing precise data entry services. With years of experience as a research consultant, I excel in uncovering hidden insights within data, turning them into actionable intelligence. Join me in exploring the vast world of data analysis where we decode intricate datasets to drive informed decisions and achieve impactful results. Let's harness the power of data together to shape a future driven by valuable insights. Welcome to the exciting realm of data-driven discovery!
 
 ---
 
@@ -71,10 +71,10 @@ Implementing Python for cutting-edge data science projects and machine learning.
 ## 🤓 Projects
 
 ### Students Satisfaction with Resources in Public Universities - Case TUM
-Embark on an investigative journey into student satisfaction levels with resources provided at TUM. [View Project Report](https://docs.google.com/document/d/1aDFS_WsaVovZ1sMw2XxJ6ubN2U9eXkdP/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
+the link below stands as a testament to the thorough examination of student satisfaction levels concerning the resources provided at Technical University of Mombasa (TUM). Through meticulous data collection, rigorous analysis, and comprehensive interpretation, this project has unearthed invaluable insights into the various facets of student experience at TUM. [View Project Report](https://docs.google.com/document/d/1aDFS_WsaVovZ1sMw2XxJ6ubN2U9eXkdP/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
 
 ### The Evolving Financial Risk of Sports Betting Among Youths in Kenya
-Embark on an insightful analysis that delves into the evolving financial risks associated with sports betting among Kenyan youths. [View Project Report](https://docs.google.com/document/d/1fx5VScNpT540RWjKP1v6y3X1U_nRVvBy/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
+The proposed project below aims to shed light on the burgeoning issue of financial risks associated with sports betting among Kenyan youths. Through comprehensive research and analysis, this study intends to explore the multifaceted factors contributing to the escalation of this phenomenon, including socio-economic influences, psychological drivers, and regulatory frameworks. [View Project Report](https://docs.google.com/document/d/1fx5VScNpT540RWjKP1v6y3X1U_nRVvBy/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
 
 ### Python Analysis
 Explore my proficiency in Python through practical applications across various subjects:
@@ -90,14 +90,13 @@ Explore my proficiency in Python through practical applications across various s
 ---
 
 ## 📄 CV
-
-Discover the depth of my professional journey and explore my diverse skill set in detail. [View CV](https://drive.google.com/file/d/11y78oyTSRuU3CAG6sBhkCEqCOp4UHSnU/view?usp=drive_link)
+I invites you to embark on an enriching exploration of my career trajectory and multifaceted expertise. With a rich background spanning statistical analysis, data science, and research consultancy, my professional journey reflects a relentless pursuit of excellence and a commitment to continuous learning and growth as shown in my cv below. [View CV](https://drive.google.com/file/d/11y78oyTSRuU3CAG6sBhkCEqCOp4UHSnU/view?usp=drive_link)
 
 ---
 
 ## 🤝 Let's Connect
 
-Reach out to explore collaboration opportunities or discuss data-driven insights!
+I am excited about the chance to connect and discuss potential collaborations or engage in conversations about leveraging data-driven insights. Feel free to contact me to explore how we can partner to achieve our shared objectives!
 
 [Connect on LinkedIn](https://www.linkedin.com/in/john-aluma-009234245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
