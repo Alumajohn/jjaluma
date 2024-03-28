@@ -18,7 +18,7 @@
 ---
 
 ## About Me
-Welcome! I'm John Aluma, a skilled statistician, data analyst, and Python enthusiast known for creating compelling online and offline surveys and providing precise data entry services. With years of experience as a research consultant, I excel in uncovering hidden insights within data, turning them into actionable intelligence. Join me in exploring the vast world of data analysis where we decode intricate datasets to drive informed decisions and achieve impactful results. Let's harness the power of data together to shape a future driven by valuable insights. Welcome to the exciting realm of data-driven discovery!
+Greetings! I'm John Aluma, a skilled statistician, data analyst, and Python enthusiast known for creating compelling online and offline surveys and providing precise data entry services. With years of experience as a research consultant, I excel in uncovering hidden insights within data, turning them into actionable intelligence. Join me in exploring the vast world of data analysis where we decode intricate datasets to drive informed decisions and achieve impactful results. Let's harness the power of data together to shape a future driven by valuable insights. Welcome to the exciting realm of data-driven discovery!
 
 ---
 
@@ -71,7 +71,7 @@ Implementing Python for cutting-edge data science projects and machine learning.
 ## 🤓 Projects
 
 ### Students Satisfaction with Resources in Public Universities - Case TUM
-the link below stands as a testament to the thorough examination of student satisfaction levels concerning the resources provided at Technical University of Mombasa (TUM). Through meticulous data collection, rigorous analysis, and comprehensive interpretation, this project has unearthed invaluable insights into the various facets of student experience at TUM. [View Project Report](https://docs.google.com/document/d/1aDFS_WsaVovZ1sMw2XxJ6ubN2U9eXkdP/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
+The link below stands as a testament to the thorough examination of student satisfaction levels concerning the resources provided at Technical University of Mombasa (TUM). Through meticulous data collection, rigorous analysis, and comprehensive interpretation, this project has unearthed invaluable insights into the various facets of student experience at TUM. [View Project Report](https://docs.google.com/document/d/1aDFS_WsaVovZ1sMw2XxJ6ubN2U9eXkdP/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
 
 ### The Evolving Financial Risk of Sports Betting Among Youths in Kenya
 The proposed project below aims to shed light on the burgeoning issue of financial risks associated with sports betting among Kenyan youths. Through comprehensive research and analysis, this study intends to explore the multifaceted factors contributing to the escalation of this phenomenon, including socio-economic influences, psychological drivers, and regulatory frameworks. [View Project Report](https://docs.google.com/document/d/1fx5VScNpT540RWjKP1v6y3X1U_nRVvBy/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)
