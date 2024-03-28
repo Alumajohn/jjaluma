@@ -23,7 +23,7 @@ Greetings! I'm John Aluma, a skilled statistician, data analyst, and Python enth
 ---
 
 ## Expertise
-With a wealth of experience in utilizing various statistical tools and programming languages, I specialize in analyzing complex datasets. My expertise enables me to derive actionable insights that inform strategic decision-making processes.
+I have a wealth of experience utilizing a variety of statistical tools, programming languages, and designing detailed questionnaires, specializing in conducting comprehensive research and analysis. My expertise lies in crafting surveys that capture nuanced data essential for understanding complex phenomena. Additionally, I excel in interpreting research findings to provide actionable insights that drive informed decision-making processes.
 
 ---
 
