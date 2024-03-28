@@ -8,7 +8,7 @@
 <div align="center">
   <button onclick="scrollToSection('about')">About Me</button>
   <button onclick="scrollToSection('expertise')">Expertise</button>
-  <button onclick="scrollToSection('projects')">Featured Projects</button>
+  <button onclick="scrollToSection('projects')">Projects</button>
   <button onclick="scrollToSection('education')">Education</button>
   <button onclick="scrollToSection('skills')">Skills</button>
   <button onclick="scrollToSection('cv')">CV</button>
